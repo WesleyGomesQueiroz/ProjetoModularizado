@@ -1,0 +1,13 @@
+<div class="task-list">
+    <h3>
+        <ng-content></ng-content>
+    </h3>
+
+    <table class="table table-striped">
+        <tbody>
+            <td *ngFor="let item of list">
+                <span> {{ item.nome }} </span>
+            </td>
+        </tbody>
+    </table>
+</div>

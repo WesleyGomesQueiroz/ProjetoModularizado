@@ -1,0 +1,33 @@
+{
+    "todolist": [{
+            "id": 1,
+            "nome": "Responder e-mails",
+            "finalizado": false,
+            "iniciado": true
+        },
+        {
+            "id": 2,
+            "nome": "Reuniao com fornecedor",
+            "finalizado": true,
+            "iniciado": false
+        },
+        {
+            "id": 3,
+            "nome": "Finalizar curso de Angular",
+            "finalizado": false,
+            "iniciado": false
+        },
+        {
+            "id": 4,
+            "nome": "Publicar feedback no LinkedIn",
+            "finalizado": false,
+            "iniciado": false
+        },
+        {
+            "id": 5,
+            "nome": "Levar Cachorro no veterinario",
+            "finalizado": true,
+            "iniciado": false
+        }
+    ]
+}

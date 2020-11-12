@@ -47,6 +47,12 @@ export class MenuComponent {
       name: 'Bar',
       axact: false,
       admin: false
+    },
+    {
+      link: '/todo',
+      name: 'To do',
+      axact: false,
+      admin: false
     }
   ]
 }
